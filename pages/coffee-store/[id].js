@@ -156,8 +156,6 @@ const CoffeeStore = (initialprops) => {
         <div className={styles.layout}>
             <Head>
                 <title>{name}</title>
-                <meta name="description" content={`${name} coffee store`} />
-
             </Head>
 
 
